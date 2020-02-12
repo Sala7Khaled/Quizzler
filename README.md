@@ -1,5 +1,5 @@
 # Quizzler
-This a true-or-false quiz app that tests your general knowledge. With a ScoreLabel, ProgressBar to track your score.
+This a true-or-false quiz app that tests your general knowledge. With a ScoreLabel, ProgressBar to track your score. This app implementing the MVC design pattern.
 
 ## Preview
 <img src="/screenshot/1.png" alt="Demo" height="600px"/> <img src="/screenshot/2.png" alt="Demo" height="600px"/>
